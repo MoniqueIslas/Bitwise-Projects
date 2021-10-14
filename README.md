@@ -1,2 +1,2 @@
-# Bitwise-Projects
+# github-practice
 Practice Websites for School
